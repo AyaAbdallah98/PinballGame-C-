@@ -1,0 +1,8 @@
+﻿  Game.cpp
+  Ball.cpp
+  Flipper.cpp
+  Wall.cpp
+  Interface.cpp
+  main.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'sfml-system-d.lib'
